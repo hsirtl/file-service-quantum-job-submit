@@ -1,0 +1,10 @@
+{
+    "weight": 15,
+    "items": [
+        { "id": 0, "weight": 7, "cost": 1 },
+        { "id": 1, "weight": 2, "cost": 1 },
+        { "id": 2, "weight": 5, "cost": 1 },
+        { "id": 3, "weight": 6, "cost": 1 },
+        { "id": 4, "weight": 8, "cost": 1 }
+    ]
+}
